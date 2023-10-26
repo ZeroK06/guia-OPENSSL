@@ -1,9 +1,15 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
-
-<h1 id="guía-sobre-encriptaron-empleando-rsa-y-openssl">Guía sobre encriptaron empleando RSA y OPENSSL</h1>
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="guía-sobre-encriptaron-empleando-rsa-y-openssl">Guía sobre encriptaron empleando RSA y OPENSSL</h1>
 <h3 id="que-es-rsa">Que es RSA?</h3>
 <p>RSA es un sistema criptográfico de clave pública</p>
 <p><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*kve33LSdO4pNj3K3cb6wKA.png" alt="Descripción de la imagen"></p>
@@ -63,4 +69,7 @@
 <p>Si la llave privada cuenta con contrasena te solicitara escribirla</p>
 <h5 id="decrypt">-decrypt</h5>
 <p>Descifre los datos de entrada utilizando una clave privada RSA.</p>
+</div>
+</body>
 
+</html>
